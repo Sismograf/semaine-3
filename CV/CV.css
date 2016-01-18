@@ -1,0 +1,58 @@
+header  {
+    position:; fixed;  
+    background-color: #4882ea;  
+    border-radius: 10px;  
+    color: #fff;  
+    margin-bottom: 30px;  
+    margin-top: -20px;  
+    width: 100%;  
+}
+
+body  {
+    background-color: #bad1f7;  
+    font-family: Tahoma;  
+}  
+
+
+h1  {
+    font-weight: bold;  
+    text-decoration: underline;  
+    text-align: center;  
+}  
+
+h3  {
+    text-align: center;  
+}  
+
+main p  {
+    text-align: center;  
+    font-size: 1.1em;  
+    font-style: italic;  
+    padding: 10px;
+}  
+
+
+li  {
+    padding: 5px;  
+    list-style-type: circle;  
+}  
+
+.actuel  {
+    color: #cc3300;
+}  
+
+footer {
+    background-color: #4882ea;  
+    text-align: center;  
+    border-radius: 10px;  
+    height: 25px;  
+    width: 100%;  
+    position: fixed;  
+    margin-top: 280px;
+}
+
+a {
+    text-decoration: none;  
+    color: #fff;  
+    padding: 5px;
+}
